@@ -34,8 +34,8 @@ This project bridges science, education, and technology, offering users a captiv
 ## **Setup Instructions**  
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/username/cosmic-odyssey.git  
-   cd cosmic-odyssey  
+   git clone https://github.com/Aniket-Chinchankar/nasa-space-app.git  
+   cd nasa-space-app  
    ```  
 
 2. **Install Dependencies**  
